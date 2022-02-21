@@ -1,5 +1,7 @@
 # Macro Micro VR Service
-Game info: https://www.bleuraven.fr/mmvs/
+
+About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
+
 ![MMVS_SexyTalons](https://user-images.githubusercontent.com/7216958/154977012-87b35140-d851-445e-9328-b4a5e370116c.jpg)
 
 **Public bug report and tracking**
