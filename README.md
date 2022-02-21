@@ -11,7 +11,8 @@ You can also see current issues and open a new one here: https://github.com/xavi
 
 **IP Join/Host**
 
-If you want play in multiplayer in MMVS the host should open his ports 7777 or do a redirect to the ports 7777. Example (https://www.youtube.com/watch?v=jfSLxs40sIw) | Example with my own. https://www.bleuraven.fr/mmvs/img/ip-join_and_host.jpg
+If you want play in multiplayer in MMVS the host should open his ports 7777 or do a redirect to the ports 7777. Example (https://www.youtube.com/watch?v=jfSLxs40sIw) | Example with my own.
+![ip-join_and_host](https://user-images.githubusercontent.com/7216958/154976344-ea492156-61a2-4927-bcb3-2dd6d113511c.jpg)
 
 **Vlan Join/Host**
 
