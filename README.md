@@ -7,3 +7,4 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 ## Check the wiki pages!
 - [Report a bug](https://github.com/xavier150/MMVS/wiki/Bug-Report)
 - [Host a game in multiplayer](https://github.com/xavier150/MMVS/wiki/Host)
+- [Note about v0.4.0 Alpha](https://github.com/xavier150/MMVS/wiki/v0.4.0-Alpha)
