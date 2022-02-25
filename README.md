@@ -10,3 +10,6 @@ _Wiki pages are under construction I will add more content later_
 - [Host a game in multiplayer](https://github.com/xavier150/MMVS/wiki/Host)
 - [Note about v0.4.0 Alpha](https://github.com/xavier150/MMVS/wiki/v0.4.0-Alpha)
 - [Games files and saves](https://github.com/xavier150/MMVS/wiki/Save)
+
+Release log
+[v0.4.0.1 - Alpha](https://github.com/xavier150/MMVS/blob/main/ReleaseLog/v0.4.0.1_Alpha.md)
