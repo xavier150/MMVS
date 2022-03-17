@@ -12,5 +12,5 @@ _Wiki pages are under construction I will add more content later_
 - [Games files and saves](https://github.com/xavier150/MMVS/wiki/Save)
 
 Release log
-- [v0.4.0.1 - Alpha](https://github.com/xavier150/MMVS/blob/main/ReleaseLog/v0.4.0.1_Alpha.md)
 - [v0.4.1 - Alpha](https://github.com/xavier150/MMVS/blob/main/ReleaseLog/v0.4.1_Alpha.md)
+- [v0.4.0.1 - Alpha](https://github.com/xavier150/MMVS/blob/main/ReleaseLog/v0.4.0.1_Alpha.md)
