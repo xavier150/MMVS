@@ -12,6 +12,9 @@ _Wiki pages are under construction I will add more content later_
 - [Note about v0.4.0 Alpha](https://github.com/xavier150/MMVS/wiki/v0.4.0-Alpha)
 - [Games files and saves](https://github.com/xavier150/MMVS/wiki/Save)
 - [Versions](https://github.com/xavier150/MMVS/wiki/Versions)
+- Volunteer and job
+  - [Translator](https://github.com/xavier150/MMVS/wiki/Translator)
+  - [Game Tester](https://github.com/xavier150/MMVS/wiki/Game-Tester)
 - [Release log](https://github.com/xavier150/MMVS/wiki/Release-log)
   - [v0.4.2 - Alpha](https://github.com/xavier150/MMVS/blob/main/ReleaseLog/v0.4.2_Alpha.md)
   - [v0.4.1.1 - Alpha](https://github.com/xavier150/MMVS/blob/main/ReleaseLog/v0.4.1.1_Alpha.md)
