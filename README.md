@@ -15,6 +15,7 @@ _Wiki pages are under construction I will add more content later_
 - Volunteer and job
   - [Translator](https://github.com/xavier150/MMVS/wiki/Translator)
   - [Game Tester](https://github.com/xavier150/MMVS/wiki/Game-Tester)
+  - [Check spelling](https://github.com/xavier150/MMVS/wiki/Check-spelling)
 - [Release log](https://github.com/xavier150/MMVS/wiki/Release-log)
   - [v0.4.2 - Alpha](https://github.com/xavier150/MMVS/blob/main/ReleaseLog/v0.4.2_Alpha.md)
   - [v0.4.1.1 - Alpha](https://github.com/xavier150/MMVS/blob/main/ReleaseLog/v0.4.1.1_Alpha.md)
