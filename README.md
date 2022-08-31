@@ -11,6 +11,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [Note about v0.4.0 Alpha](https://github.com/xavier150/MMVS/wiki/v0.4.0-Alpha)
 - [Games files and saves](https://github.com/xavier150/MMVS/wiki/Save)
 - [Versions](https://github.com/xavier150/MMVS/wiki/Versions)
+- [Console](https://github.com/xavier150/MMVS/wiki/Console)
 - Bugs and suggestions
   - [Report a bug](https://github.com/xavier150/MMVS/wiki/Bug-Report)
   - [Submit a suggestion](https://github.com/xavier150/MMVS/wiki/Suggestion)
