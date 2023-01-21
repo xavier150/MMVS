@@ -22,4 +22,5 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
   - [Translator](https://github.com/xavier150/MMVS/wiki/Translator)
   - [Game Tester](https://github.com/xavier150/MMVS/wiki/Game-Tester)
   - [Check spelling](https://github.com/xavier150/MMVS/wiki/Check-spelling)
+- [Credit Policy](https://github.com/xavier150/MMVS/wiki/Credit-Policy)
 - [Release logs](https://github.com/xavier150/MMVS/wiki/Release-logs)
