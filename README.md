@@ -17,8 +17,8 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [Console](https://github.com/xavier150/MMVS/wiki/Console)
 - [Cheat Code](https://github.com/xavier150/MMVS/wiki/Cheat-Code)
 - Bugs and suggestions
-  - [Report a bug](https://github.com/xavier150/MMVS/wiki/Bug-Report)
-  - [Submit a suggestion](https://github.com/xavier150/MMVS/wiki/Suggestion)
+  - [Report a bug](https://github.com/xavier150/MMVS/wiki/Bug-Reports)
+  - [Submit a suggestion](https://github.com/xavier150/MMVS/wiki/Suggestions)
 - Volunteer and job
   - [Translator](https://github.com/xavier150/MMVS/wiki/Translator)
   - [Game Tester](https://github.com/xavier150/MMVS/wiki/Game-Tester)
