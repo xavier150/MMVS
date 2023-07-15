@@ -11,7 +11,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
   - [Linux](https://github.com/xavier150/MMVS/wiki/Download-and-installation-(Linux))  
   - [Steam Deck](https://github.com/xavier150/MMVS/wiki/Download-and-installation-(Steam-Deck))  
 - [Host a game in multiplayer](https://github.com/xavier150/MMVS/wiki/Host)
-- [Note about v0.4.0 Alpha](https://github.com/xavier150/MMVS/wiki/v0.4.0-Alpha)
+- [In game PathTracing](https://github.com/xavier150/MMVS/wiki/In-game-PathTracing)
 - [Games files and saves](https://github.com/xavier150/MMVS/wiki/Save)
 - [Versions](https://github.com/xavier150/MMVS/wiki/Versions)
 - [Console](https://github.com/xavier150/MMVS/wiki/Console)
