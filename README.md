@@ -10,6 +10,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
   - [Windows](https://github.com/xavier150/MMVS/wiki/Download-and-installation-(Windows))  
   - [Linux](https://github.com/xavier150/MMVS/wiki/Download-and-installation-(Linux))  
   - [Steam Deck](https://github.com/xavier150/MMVS/wiki/Download-and-installation-(Steam-Deck))  
+  - [Quest 2 ‐ Air Link](https://github.com/xavier150/MMVS/wiki/Download-and-installation-(Quest-2-‐-Air-Link))  
 - [Host a game in multiplayer](https://github.com/xavier150/MMVS/wiki/Host)
 - [In game PathTracing](https://github.com/xavier150/MMVS/wiki/In-game-PathTracing)
 - [Games files and saves](https://github.com/xavier150/MMVS/wiki/Save)
