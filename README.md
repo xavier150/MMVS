@@ -20,6 +20,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [Set Render Hardware Interface](https://github.com/xavier150/MMVS/wiki/Set-Render-Hardware-Interface)
 - Bugs and suggestions
   - [Report a bug](https://github.com/xavier150/MMVS/wiki/Bug-Reports)
+  - [Found and send crash report](https://github.com/xavier150/MMVS/wiki/Found-Crash-Report)
   - [Submit a suggestion](https://github.com/xavier150/MMVS/wiki/Suggestions)
 - Volunteer and job
   - [Translator](https://github.com/xavier150/MMVS/wiki/Translator)
