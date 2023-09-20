@@ -22,7 +22,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [Job](https://www.bleuraven.fr/job)
 ### Tech Detail
 - [Host a game in multiplayer](https://github.com/xavier150/MMVS/wiki/Host)
-    - [Add game as exception in the firewall](https://github.com/xavier150/MMVS/wiki/Add-Game-as-Exception-in-Firewall)
+    - [Add Game as Exception in Firewall](https://github.com/xavier150/MMVS/wiki/Add-Game-as-Exception-in-Firewall)
 - [Games Files and Saves](https://github.com/xavier150/MMVS/wiki/Save)
 - [System Requirements](https://github.com/xavier150/MMVS/wiki/System-requirements)
 - [In Game PathTracing](https://github.com/xavier150/MMVS/wiki/In-Game-PathTracing)
