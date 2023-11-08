@@ -27,6 +27,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [System Requirements](https://github.com/xavier150/MMVS/wiki/System-requirements)
 - [In Game PathTracing](https://github.com/xavier150/MMVS/wiki/In-Game-PathTracing)
 - [Set Render Hardware Interface](https://github.com/xavier150/MMVS/wiki/Set-Render-Hardware-Interface)
+- [Internal Tech detail](https://github.com/xavier150/MMVS/wiki/Internal-Tech-detail)
 ### Additional Detail
 - [Versions](https://github.com/xavier150/MMVS/wiki/Versions)
 - [Release logs](https://github.com/xavier150/MMVS/wiki/Release-logs)
