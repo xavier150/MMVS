@@ -34,3 +34,4 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [Credit Policy](https://github.com/xavier150/MMVS/wiki/Credit-Policy)
 - [Console](https://github.com/xavier150/MMVS/wiki/Console)
 - [Cheat Code](https://github.com/xavier150/MMVS/wiki/Cheat-Code)
+- [Known-Issues](https://github.com/xavier150/MMVS/wiki/Known-Issues)
