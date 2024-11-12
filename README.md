@@ -21,6 +21,8 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 
 ### Volunteer and Job
 - [Translator](https://github.com/xavier150/MMVS/wiki/Translator)
+    - [Translation-Work](https://github.com/xavier150/MMVS/wiki/Translation-Work)
+    - [Crowind ‐ Quick Start](https://github.com/xavier150/MMVS/wiki/Crowind-‐-Quick-Start)
 - [Game Tester](https://github.com/xavier150/MMVS/wiki/Game-Tester)
 - [Check spelling](https://github.com/xavier150/MMVS/wiki/Check-spelling)
 - [Job](https://www.bleuraven.fr/job)
@@ -40,6 +42,10 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [Credit Policy](https://github.com/xavier150/MMVS/wiki/Credit-Policy)
 - [Console](https://github.com/xavier150/MMVS/wiki/Console)
 - [Cheat Codes](https://github.com/xavier150/MMVS/wiki/Cheat-Codes)
+- [Known Issues](https://github.com/xavier150/MMVS/wiki/Known-Issues)
+
+### Community
+- [Community Spotlight](https://github.com/xavier150/MMVS/wiki/Community-Spotlight)
 - [Known Issues](https://github.com/xavier150/MMVS/wiki/Known-Issues)
 
 ### Community
