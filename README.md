@@ -35,6 +35,11 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [In Game PathTracing](https://github.com/xavier150/MMVS/wiki/In-Game-PathTracing)
 - [Set Render Hardware Interface](https://github.com/xavier150/MMVS/wiki/Set-Render-Hardware-Interface)
 - [Internal Tech detail](https://github.com/xavier150/MMVS/wiki/Internal-Tech-detail)
+- [Dev Notes](https://github.com/xavier150/MMVS/wiki/Dev-Notes)
+    - [Prepare Engine (Linux)](https://github.com/xavier150/MMVS/wiki/Prepare-Engine-(Linux))
+    - [Prepare Engine (Windows)](https://github.com/xavier150/MMVS/wiki/Prepare-Engine-(Windows))
+    - [Prepare Project (Linux)](https://github.com/xavier150/MMVS/wiki/Prepare-Project-(Linux))
+    - [Prepare Project (Windows)](https://github.com/xavier150/MMVS/wiki/Prepare-Project-(Windows))
 
 ### Additional Detail
 - [Versions](https://github.com/xavier150/MMVS/wiki/Versions)
