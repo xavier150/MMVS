@@ -50,4 +50,6 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [Known Issues](https://github.com/xavier150/MMVS/wiki/Known-Issues)
 
 ### Community
+- [Discord](https://discord.com/invite/svctk57)
+- [Telegram](https://t.me/BleuRavenProjects)
 - [Community Spotlight](https://github.com/xavier150/MMVS/wiki/Community-Spotlight)
