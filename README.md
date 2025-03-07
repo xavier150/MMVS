@@ -6,6 +6,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 
 # Documentation
 - [Home](https://github.com/xavier150/MMVS/wiki)
+- [Road Map](https://github.com/xavier150/MMVS/wiki/Road-Map)
 
 ### Download and installation
 - [Download and installation](https://github.com/xavier150/MMVS/wiki/Download-and-installation)
