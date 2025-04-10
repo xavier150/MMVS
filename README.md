@@ -30,6 +30,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 
 ### Tech Detail
 - [Host a game in multiplayer](https://github.com/xavier150/MMVS/wiki/Host)
+    - [Dedicated Server](https://github.com/xavier150/MMVS/wiki/Dedicated-Server)
     - [Add Game as Exception in Firewall](https://github.com/xavier150/MMVS/wiki/Add-Game-as-Exception-in-Firewall)
 - [Games Files and Saves](https://github.com/xavier150/MMVS/wiki/Save)
 - [System Requirements](https://github.com/xavier150/MMVS/wiki/System-requirements)
