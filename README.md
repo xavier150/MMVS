@@ -42,6 +42,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
     - [Prepare Engine (Windows)](https://github.com/xavier150/MMVS/wiki/Prepare-Engine-(Windows))
     - [Prepare Project (Linux)](https://github.com/xavier150/MMVS/wiki/Prepare-Project-(Linux))
     - [Prepare Project (Windows)](https://github.com/xavier150/MMVS/wiki/Prepare-Project-(Windows))
+- [Character Modding](https://github.com/xavier150/MMVS/wiki/Character-Modding)
 
 ### Additional Detail
 - [Versions](https://github.com/xavier150/MMVS/wiki/Versions)
