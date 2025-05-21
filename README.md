@@ -17,7 +17,8 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 
 ### Bugs and suggestions
 - [Report a bug](https://github.com/xavier150/MMVS/wiki/Bug-Reports)
-- [Found and send crash report](https://github.com/xavier150/MMVS/wiki/Found-Crash-Report)
+    - [Game Reports Form](https://github.com/xavier150/MMVS/wiki/Game-Reports-Form)
+    - [Found and send crash report](https://github.com/xavier150/MMVS/wiki/Found-Crash-Report)
 - [Submit a suggestion](https://github.com/xavier150/MMVS/wiki/Suggestions)
 
 ### Volunteer and Job
@@ -51,6 +52,11 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [Console](https://github.com/xavier150/MMVS/wiki/Console)
 - [Cheat Codes](https://github.com/xavier150/MMVS/wiki/Cheat-Codes)
 - [Known Issues](https://github.com/xavier150/MMVS/wiki/Known-Issues)
+
+### Community
+- [Discord](https://discord.com/invite/svctk57)
+- [Telegram](https://t.me/BleuRavenProjects)
+- [Community Spotlight](https://github.com/xavier150/MMVS/wiki/Community-Spotlight)
 
 ### Community
 - [Discord](https://discord.com/invite/svctk57)
