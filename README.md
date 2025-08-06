@@ -46,7 +46,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [Character Modding](https://github.com/xavier150/MMVS/wiki/Character-Modding)
 
 ### Additional Detail
-- [Versions](https://github.com/xavier150/MMVS/wiki/Versions)
+- [Versioning](https://github.com/xavier150/MMVS/wiki/Versioning)
 - [Release logs](https://github.com/xavier150/MMVS/wiki/Release-logs)
 - [Credit Policy](https://github.com/xavier150/MMVS/wiki/Credit-Policy)
 - [Console](https://github.com/xavier150/MMVS/wiki/Console)
@@ -56,6 +56,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 ### Community
 - [Discord](https://discord.com/invite/svctk57)
 - [Telegram](https://t.me/BleuRavenProjects)
+- [Community Spotlight](https://github.com/xavier150/MMVS/wiki/Community-Spotlight)
 - [Community Spotlight](https://github.com/xavier150/MMVS/wiki/Community-Spotlight)
 
 ### Community
