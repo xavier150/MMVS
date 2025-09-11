@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../MMVS_GitHub.wiki"
 		}
 	],
 	"settings": {}
