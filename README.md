@@ -18,7 +18,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 ### Bugs and suggestions
 - [Report a bug](https://github.com/xavier150/MMVS/wiki/Bug-Reports)
     - [Game Reports Form](https://github.com/xavier150/MMVS/wiki/Game-Reports-Form)
-    - [Found and send crash report](https://github.com/xavier150/MMVS/wiki/Found-Crash-Report)
+    - [Finding and sending crash reports](https://github.com/xavier150/MMVS/wiki/Found-Crash-Report)
 - [Submit a suggestion](https://github.com/xavier150/MMVS/wiki/Suggestions)
 
 ### Volunteer and Job
@@ -28,21 +28,24 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [Game Tester](https://github.com/xavier150/MMVS/wiki/Game-Tester)
 - [Check spelling](https://github.com/xavier150/MMVS/wiki/Check-spelling)
 - [Job](https://www.bleuraven.fr/job)
+- [Work In Team](https://github.com/xavier150/MMVS/wiki/Work-In-Team)
 
 ### Tech Detail
 - [Host a game in multiplayer](https://github.com/xavier150/MMVS/wiki/Host)
     - [Dedicated Server](https://github.com/xavier150/MMVS/wiki/Dedicated-Server)
     - [Add Game as Exception in Firewall](https://github.com/xavier150/MMVS/wiki/Add-Game-as-Exception-in-Firewall)
-- [Games Files and Saves](https://github.com/xavier150/MMVS/wiki/Save)
+- [Game Files and Saves](https://github.com/xavier150/MMVS/wiki/Save)
 - [System Requirements](https://github.com/xavier150/MMVS/wiki/System-requirements)
-- [In Game PathTracing](https://github.com/xavier150/MMVS/wiki/In-Game-PathTracing)
+- [In-Game PathTracing](https://github.com/xavier150/MMVS/wiki/In-Game-PathTracing)
 - [Set Render Hardware Interface](https://github.com/xavier150/MMVS/wiki/Set-Render-Hardware-Interface)
-- [Internal Tech detail](https://github.com/xavier150/MMVS/wiki/Internal-Tech-detail)
+- [Internal Tech Details](https://github.com/xavier150/MMVS/wiki/Internal-Tech-detail)
 - [Dev Notes](https://github.com/xavier150/MMVS/wiki/Dev-Notes)
     - [Prepare Engine (Linux)](https://github.com/xavier150/MMVS/wiki/Prepare-Engine-(Linux))
     - [Prepare Engine (Windows)](https://github.com/xavier150/MMVS/wiki/Prepare-Engine-(Windows))
     - [Prepare Project (Linux)](https://github.com/xavier150/MMVS/wiki/Prepare-Project-(Linux))
     - [Prepare Project (Windows)](https://github.com/xavier150/MMVS/wiki/Prepare-Project-(Windows))
+    - [Cross‐Compilation](https://github.com/xavier150/MMVS/wiki/Cross‐Compilation)
+    - [Debug Crashes (Windows)](https://github.com/xavier150/MMVS/wiki/Debug-Crashes-(Windows))
 - [Character Modding](https://github.com/xavier150/MMVS/wiki/Character-Modding)
 
 ### Additional Detail
@@ -52,12 +55,6 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 - [Console](https://github.com/xavier150/MMVS/wiki/Console)
 - [Cheat Codes](https://github.com/xavier150/MMVS/wiki/Cheat-Codes)
 - [Known Issues](https://github.com/xavier150/MMVS/wiki/Known-Issues)
-
-### Community
-- [Discord](https://discord.com/invite/svctk57)
-- [Telegram](https://t.me/BleuRavenProjects)
-- [Community Spotlight](https://github.com/xavier150/MMVS/wiki/Community-Spotlight)
-- [Community Spotlight](https://github.com/xavier150/MMVS/wiki/Community-Spotlight)
 
 ### Community
 - [Discord](https://discord.com/invite/svctk57)
