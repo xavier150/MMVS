@@ -20,6 +20,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
     - [Game Reports Form](https://github.com/xavier150/MMVS/wiki/Game-Reports-Form)
     - [Finding and sending crash reports](https://github.com/xavier150/MMVS/wiki/Found-Crash-Report)
 - [Submit a suggestion](https://github.com/xavier150/MMVS/wiki/Suggestions)
+- [Tips to reports](https://github.com/xavier150/MMVS/wiki/Report-Tips)
 
 ### Volunteer and Job
 - [Translator](https://github.com/xavier150/MMVS/wiki/Translator)
