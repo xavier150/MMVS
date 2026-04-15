@@ -18,6 +18,7 @@ About Macro Micro VR Service --> https://www.bleuraven.fr/mmvs/ <--
 ### Bugs and suggestions
 - [Report a bug](Bug-Reports)
     - [Report Form (In-Game Bug)](Report-Form-(In---Game-Bug))
+    - [Report Form (In-Game Issue)](Report-Form-(In---Game-Issue))
     - [Finding and sending crash reports](Found-Crash-Report)
 - [Submit a suggestion](Suggestions)
     - [Report Form (Suggestion)](Report-Form-(Suggestion))
