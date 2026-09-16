@@ -3,11 +3,7 @@
 - [Road Map](../../wiki/Road-Map)
 
 ### Download and installation
-- [Download and installation](../../wiki/Download-and-installation)
-    - [Windows](../../wiki/Download-and-installation-(Windows))  
-    - [Linux](../../wiki/Download-and-installation-(Linux))  
-    - [Steam Deck](../../wiki/Download-and-installation-(Steam-Deck))  
-    - [Meta Quest](../../wiki/Download-and-installation-(Meta-Quest))  
+- [Getting Started](../../wiki/Getting-Started)
 
 ### Bugs and suggestions
 - [Report a bug](../../wiki/Bug-Reports)
