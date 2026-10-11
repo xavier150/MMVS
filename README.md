@@ -30,7 +30,7 @@
 - [Host a game in multiplayer](../../wiki/Host)
     - [Dedicated Server](../../wiki/Dedicated-Server)
     - [Add Game as Exception in Firewall](../../wiki/Add-Game-as-Exception-in-Firewall)
-- [Game Files and Saves](../../wiki/Save)
+- [Game Files and Saves](../../wiki/Game-Saves)
 - [System Requirements](../../wiki/System-requirements)
 - [In-Game PathTracing](../../wiki/In-Game-PathTracing)
 - [Set Render Hardware Interface](../../wiki/Set-Render-Hardware-Interface)
