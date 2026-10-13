@@ -36,12 +36,6 @@
 - [Set Render Hardware Interface](../../wiki/Set-Render-Hardware-Interface)
 - [Internal Tech Details](../../wiki/Internal-Tech-detail)
 - [Dev Notes](../../wiki/Dev-Notes)
-    - [Prepare Engine (Linux)](../../wiki/Prepare-Engine-(Linux))
-    - [Prepare Engine (Windows)](../../wiki/Prepare-Engine-(Windows))
-    - [Prepare Project (Linux)](../../wiki/Prepare-Project-(Linux))
-    - [Prepare Project (Windows)](../../wiki/Prepare-Project-(Windows))
-    - [Cross‐Compilation](../../wiki/Cross‐Compilation)
-    - [Debug Crashes (Windows)](../../wiki/Debug-Crashes-(Windows))
 - [Character Modding](../../wiki/Character-Modding)
 
 ### Additional Detail
